@@ -1,0 +1,13 @@
+.searchbar{
+  display: flex;
+}
+.price-chart{
+  display: flex;
+}
+.style {
+  display: block;
+    box-sizing: border-box;
+    height: 312px;
+    width: 669px;
+    
+}
